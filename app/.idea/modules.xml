@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Application.iml" filepath="$PROJECT_DIR$/../Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FragmentApplication/FragmentApplication.iml" filepath="$PROJECT_DIR$/../FragmentApplication/FragmentApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Menu_application/Menu_application.iml" filepath="$PROJECT_DIR$/../Menu_application/Menu_application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ServiceApplication/ServiceApplication.iml" filepath="$PROJECT_DIR$/../ServiceApplication/ServiceApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TextWachter/TextWachter.iml" filepath="$PROJECT_DIR$/../TextWachter/TextWachter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ViewPagerapplication/ViewPagerapplication.iml" filepath="$PROJECT_DIR$/../ViewPagerapplication/ViewPagerapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app.iml" filepath="$PROJECT_DIR$/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../broadcast/broadcast.iml" filepath="$PROJECT_DIR$/../broadcast/broadcast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sdCard_application/sdCard_application.iml" filepath="$PROJECT_DIR$/../sdCard_application/sdCard_application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../weather/weather.iml" filepath="$PROJECT_DIR$/../weather/weather.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="F:\Android\Android Studio\gradle\gradle-2.2.1" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../FragmentApplication" />
+            <option value="$PROJECT_DIR$/../Menu_application" />
+            <option value="$PROJECT_DIR$/../ServiceApplication" />
+            <option value="$PROJECT_DIR$/../TextWachter" />
+            <option value="$PROJECT_DIR$/../ViewPagerapplication" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../broadcast" />
+            <option value="$PROJECT_DIR$/../sdCard_application" />
+            <option value="$PROJECT_DIR$/../weather" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
